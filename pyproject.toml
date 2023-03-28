@@ -2,7 +2,7 @@
 name = "lru"
 version = "0.1.0"
 description = ""
-authors = ["Gribanov_EO <gribanov_eo@lab5.era>"]
+authors = ["Evgeniy Gribanov <evgeniy.therabbit@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
